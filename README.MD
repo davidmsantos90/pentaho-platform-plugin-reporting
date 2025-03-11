@@ -1,10 +1,16 @@
+<div align="center">
 #pentaho-platform-plugin-reporting
 
-Reporting plugin allows you to run .prpt reports
- on Pentaho platform.
+Reporting plugin allows you to run .prpt reports on Pentaho platform.
 
 All required profiles are activated by default. By default both jar and plugin
 You still can build jar and plugin zip separately by using 'core' and 'web' profiles.
+
+![Java](https://img.shields.io/badge/Java-11-brightorange?logo=openjdk)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
+![Node](https://img.shields.io/badge/node-18-brightgreen?logo=node.js)
+
+</div>
 
 How to build
 --------------
